@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
-import { API_OPTIONS } from "../utils/constants";
-import { addTrailerVideo } from "../utils/moviesSlice";
+import { API_OPTIONS } from "../../utils/constants";
+import { addTrailerVideo } from "../../utils/moviesSlice";
 import { useDispatch } from "react-redux";
 
 const useMovieTrailer = (movieId) => {
@@ -24,8 +24,6 @@ const useMovieTrailer = (movieId) => {
   useEffect(() => {
     getMovieVideo();
   }, []);
-
-  return <div>useMovieTrailer</div>;
 };
 
 export default useMovieTrailer;
