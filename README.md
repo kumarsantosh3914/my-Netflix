@@ -2,6 +2,49 @@
 
 - Create React App
 - Configured TailwindCSS
+- Header
+- Routing of App
+- Login Form
+- Sign up Form
+- Form Validation
+- UseRef Hook
+- Firebase Setup
+- Deploying our app to production
+- Create SignUp User Account
+- Implement Sign In user Api
+- Created Redux Store with userSlice
+- Implemented Sign out
+- Update Profile
+- BugFix: Sign up user displayName and profile picture update
+- BugFix: if the user is not logged in Redirect/browser to Login Page and vice-versa
+- Unsubscribed to the onAuthStateChanged callback
+- Register TMDB API & create an app & get access token
+- Get Data from TMDB now playing movies list API
+- Custom Hook for Now Playing Mvoies
+- Create movieSlice
+- Update Store with movies Data
+- Planning Data for Trailer Video Data
+- Fetch Data for Trailer Video
+- Update Store with Trailer Video Data
+- Embedded the Youtube video and make it autoplay and mute
+- Tailwind Classes to make Main Container look awesome
+- Build Secondary Component
+- Build Movie List
+- Build Movie Card
+- TMDB Image CDN URL
+- Made the Browser page amazing with Tailwind CSS
+- usePopularMovies Custom hook
+- GPT Search Page
+- GPT Search Bar
+- (BONUS) Multi-language Feature in our APP
+- Get Open AI Api Key
+- Get Search API Call
+- Fetched gptMoviesSuggestions from TMDB
+- Created gptSlice added data
+- Resumed Movie List component to make movie suggestion container
+- Memoization
+- Added .evn file to add our API Key
+- Made our Site Responsive
 
 # Features
 - Login/Sign Up
